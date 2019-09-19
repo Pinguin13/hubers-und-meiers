@@ -2,4 +2,42 @@ div{
   min-height: 100px;
   min-width: 100px;
   border: 1px solid black;
+
+
+}
+
+.huber{
+  background: red;
+  }
+  .huber #lisa{
+    background: yellow;
+  }
+
+  div.huber #lisa{
+  background:green;
+  }
+
+
+#lisa{
+  background: purple;
+}
+
+.huber #lisa.meier{
+  background: black;
+}
+
+.meier{
+  background: pink;
+}
+
+div.meier{
+  background: olive;
+
+#luis{
+  background: orange;
+
+}
+
+body div.meier{
+  background: grey;
 }
